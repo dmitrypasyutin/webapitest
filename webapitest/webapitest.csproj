@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Dynabic.ProductsRestApi.Common">
+      <HintPath>..\..\..\..\..\..\Projects\Aspose\full2\imaging\src\submodules\Dynabic.ProductsRestApi.Common\src\Dynabic.ProductsRestApi.Common\bin\Debug\netstandard2.0\Dynabic.ProductsRestApi.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+</Project>
